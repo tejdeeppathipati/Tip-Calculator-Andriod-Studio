@@ -1,0 +1,15 @@
+<!-- Example custom progress drawable for SeekBar -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape>
+            <solid android:color="#50000000" /> <!-- Translucent background -->
+        </shape>
+    </item>
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <solid android:color="@color/silver" /> <!-- Silver progress -->
+            </shape>
+        </clip>
+    </item>
+</layer-list>

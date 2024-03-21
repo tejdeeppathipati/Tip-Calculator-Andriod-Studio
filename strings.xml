@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name ="display_message">Here\'s a tip</string>
+    <string name ="base">Base</string>
+    <string name ="Tip">Tip</string>
+    <string name = "Total">Total</string>
+    <string name = "bill">Bill Amount</string>
+    <string name = "people">People</string>
+    <string name="tip_amount">Tip:     $%1$.2f</string>
+    <string name="total_amount">Total:   $%1$.2f</string>
+    <string name="tip_percentage">%d%%</string>
+
+</resources>
