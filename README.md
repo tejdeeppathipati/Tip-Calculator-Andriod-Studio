@@ -40,7 +40,7 @@ A lot of new things learned work with the spinners and the seekbar
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright 2024 Tejdeep Pathipati
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
